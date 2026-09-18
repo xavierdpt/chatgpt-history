@@ -1,0 +1,8 @@
+{
+  "session_token": "value of the __Secure-next-auth.session-token cookie from chatgpt.com",
+  "cookie": "",
+  "access_token": "",
+  "account_id": "",
+  "user_agent": "",
+  "delay": 1.0
+}
